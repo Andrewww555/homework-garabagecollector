@@ -1,5 +1,5 @@
 package org.example.homework.garbageсollector;
-
+// комментарий
 
 /*
 -Xms256m

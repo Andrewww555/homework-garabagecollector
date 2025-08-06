@@ -1,5 +1,5 @@
 package org.example.homework.garbageсollector;
-
+// комментарий
 public class Data {
     private final int value;
 

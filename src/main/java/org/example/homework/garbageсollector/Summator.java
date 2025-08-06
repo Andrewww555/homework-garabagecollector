@@ -1,5 +1,5 @@
 package org.example.homework.garbageсollector;
-
+// комментарий 
 import java.util.ArrayList;
 import java.util.List;
 
